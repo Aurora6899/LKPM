@@ -130,9 +130,7 @@ The code has been tested on Ubuntu 22.04 .
     ```
 
 2. **Train**: Run the following command to train the network with 1 GPU. The
-   classification accuracy on the testing set without voting is 94.8%. And the
-   training log and weights can be downloaded
-   [here](....).
+   classification accuracy on the testing set without voting is 94.8%.
     ```bash
     python classification.py --config configs/cls_m40.yaml SOLVER.gpu 0,
     ```
