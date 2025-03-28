@@ -3,7 +3,7 @@
 This repository contains the implementation of **LKPM**. 
 
 
-![teaser](Figure1-Model Overview.png)
+![teaser](Figure1-Model%20Overview.png)
 
 
 
