@@ -28,8 +28,6 @@ The code has been tested on Ubuntu 22.04 .
 3. Clone this repository and install the requirements.
 
     ```bash
-    git clone https://github.com/LKPM-nn/LKPM.git
-    cd  LKPM
     pip install -r requirements.txt
     ```
 
